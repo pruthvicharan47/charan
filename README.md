@@ -1,4 +1,4 @@
-# Learn how to package and distribute your Python 3.x project
+# How to package a Python 3.x project?
 
 Detailed documentation of setup utilities maintained by [Python org](https://packaging.python.org/en/latest/distributing/)
 
